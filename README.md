@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feliciaokta
 - 👀 I’m interested in puppies and kittens 🐶🐱
-- 🌱 I’m currently learning how to code
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ... anything 😄
 
 <!---
